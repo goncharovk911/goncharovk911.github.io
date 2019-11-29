@@ -2,4 +2,4 @@
 My HomeWork
 
 
-(https://www.google.com)
+[link text itself]: http://www.reddit.com
